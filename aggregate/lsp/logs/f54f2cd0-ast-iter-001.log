@@ -1,0 +1,7 @@
+[2026-11-22T21:53:28Z] === AST ITERATION 1 START | repo=assert-rs/predicates-rs sha=f54f2cd0 ===
+[2026-11-22T21:53:28Z] [iter=1] PHASE START: ast repo=assert-rs/predicates-rs sha=f54f2cd0
+[2026-11-22T21:53:28Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T21:53:37Z] [iter=1] AST chunks built count=1 triples=138674
+[2026-11-22T21:53:37Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/f54f2cd016a1df6c88a022c867e3ee04c70f9a3a/.complete
+[2026-11-22T21:53:37Z] [iter=1] PHASE END: ast elapsed_s=9 elapsed_min=0.2
+[2026-11-22T21:53:37Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
