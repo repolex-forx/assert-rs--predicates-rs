@@ -1,0 +1,11 @@
+{
+  "org": "assert-rs",
+  "repo": "predicates-rs",
+  "versions": [
+    {
+      "commit": "f54f2cd016a1df6c88a022c867e3ee04c70f9a3a",
+      "tag": "v3.1.4",
+      "parsed_at": "2026-11-22T21:58:42.409906+00:00"
+    }
+  ]
+}
